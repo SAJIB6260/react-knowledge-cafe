@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/smsqh1R/1.jpg",
+      "title": "Top 10 ES6 Features You Must Know",
+      "author": "Hamza Sohail",
+      "author_img": "https://i.ibb.co/g4fmpDK/boy1.png",
+      "posted_date": "September 15, 2023",
+      "reading_time": 5,
+      "hashtags": ["beginners",
+      "es6"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/DfG2Wr0/2.png",
+      "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+      "author": "Sajal Ali",
+      "author_img": "https://i.ibb.co/2qCfxn0/boy2.jpg",
+      "posted_date": "August 28, 2023",
+      "reading_time": 4,
+      "hashtags": ["javascript",
+      "coding",
+      "dev"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/ChxTzBz/3.png",
+      "title": "Component lifecycle in React — Class component vs Functional component",
+      "author": "Feroze Khan",
+      "author_img": "https://i.ibb.co/gytq3Vt/girl1.jpg",
+      "posted_date": "July 10, 2023",
+      "reading_time": 10,
+      "hashtags": ["mid_level",
+      "react"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/HGqZTh9/4.jpg",
+      "title": "Free images and resources collection for website",
+      "author": "Anmol Baloch",
+      "author_img": "https://i.ibb.co/JxKV6Mw/girl2.jpg",
+      "posted_date": "June 5, 2023",
+      "reading_time": 9,
+      "hashtags": ["development",
+      "resources"]
+    }
+  ]
+  
